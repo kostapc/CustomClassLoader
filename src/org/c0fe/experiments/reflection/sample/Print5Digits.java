@@ -1,4 +1,4 @@
-package net.c0fe.experiments.reflection.sample;
+package org.c0fe.experiments.reflection.sample;
 
 /**
  * User: kostapc

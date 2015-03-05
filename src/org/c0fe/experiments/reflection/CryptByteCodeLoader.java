@@ -1,4 +1,4 @@
-package net.c0fe.experiments.reflection;
+package org.c0fe.experiments.reflection;
 
 import java.io.*;
 import java.lang.reflect.InvocationTargetException;

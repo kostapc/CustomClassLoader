@@ -1,11 +1,10 @@
-package net.c0fe.experiments.reflection;
+package org.c0fe.experiments.reflection;
 
-import net.c0fe.tools.Base64Coder;
+import org.c0fe.tools.Base64Coder;
 import org.apache.bcel.classfile.ClassParser;
 import org.apache.bcel.classfile.JavaClass;
 
 import java.io.*;
-import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 
 /**
