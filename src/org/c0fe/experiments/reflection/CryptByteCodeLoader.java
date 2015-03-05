@@ -1,10 +1,5 @@
 package org.c0fe.experiments.reflection;
 
-import java.io.*;
-import java.lang.reflect.InvocationTargetException;
-import java.lang.reflect.Method;
-import java.net.MalformedURLException;
-
 /**
  * User: kostapc
  */
