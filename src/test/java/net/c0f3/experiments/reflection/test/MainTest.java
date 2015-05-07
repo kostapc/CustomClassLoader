@@ -4,9 +4,6 @@ import net.c0fe.experiments.reflection.CryptByteCode;
 import org.junit.Ignore;
 import org.junit.Test;
 
-import java.nio.file.Path;
-import java.nio.file.Paths;
-
 /**
  * kostapc on 07.05.15.
  */
